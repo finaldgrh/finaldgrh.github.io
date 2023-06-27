@@ -4,7 +4,7 @@ class MiFooter
     this.innerHTML = /* html */
       `<p>
         &copy; 2023
-        David Gabriel Rodriguez Hernandez
+        David Gabriel Rodriguez Hernandez.
       </p>`;
   }
 }
